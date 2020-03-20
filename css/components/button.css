@@ -1,0 +1,13 @@
+.btn-gold{
+	background-color: #B8860B;
+	padding: 7px 22px;
+	border-radius: 5px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Roboto', sans-serif;
+}
+
+.btn-gold:hover {
+	background-color: rgb(150,150,150, 0.6);
+	color: white;
+}

@@ -1,0 +1,18 @@
+.cards{
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.card{
+	background-color: white; 
+	padding: 30px;
+	margin: 10px;
+	border-radius: 4px;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	flex-wrap: wrap;
+	flex-basis: 270px;
+	flex-grow: 1;
+}
